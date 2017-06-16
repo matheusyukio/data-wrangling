@@ -14,7 +14,7 @@ import xml.etree.cElementTree as ET
 import pprint
 
 def count_tags(filename):
-        # YOUR CODE HERE
+        
         tags = {}
         for file, element in ET.iterparse(filename):
             if element.tag in tags:
@@ -24,7 +24,7 @@ def count_tags(filename):
         return tags
             
 
-
+# if you use different osm file, you can change the test
 def test():
 
     tags = count_tags('example.osm')
@@ -39,6 +39,7 @@ def test():
                      'way': 1}
 
     
+
 
 if __name__ == "__main__":
     test()
