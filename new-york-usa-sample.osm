@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+  <node changeset="17199164" id="30979230" lat="40.6932161" lon="-74.0187852" timestamp="2013-08-03T03:17:11Z" uid="632378" user="3yoda" version="3" />
+	<node changeset="29191094" id="297094823" lat="40.7373732" lon="-74.0295635" timestamp="2015-03-02T05:36:51Z" uid="624003" user="eugenebata" version="2" />
+	<node changeset="3424861" id="598050829" lat="40.6999605" lon="-73.9846871" timestamp="2009-12-22T05:45:35Z" uid="207745" user="NE2" version="1" />
+	<node changeset="10478594" id="1602588130" lat="40.7243535" lon="-73.9751317" timestamp="2012-01-23T19:56:13Z" uid="336460" user="robgeb" version="1" />
+	<node changeset="42542837" id="2240574977" lat="40.7348" lon="-74.0327576" timestamp="2016-09-30T13:47:26Z" uid="3922929" user="aalox" version="2" />
+	<node changeset="18320374" id="2494064951" lat="40.6918195" lon="-73.9668387" timestamp="2013-10-12T18:57:25Z" uid="1772890" user="navimont_nycbuildings" version="1" />
+	<node changeset="18320876" id="2494128209" lat="40.7270667" lon="-73.9881901" timestamp="2013-10-12T19:26:18Z" uid="1772887" user="zingbot_nycbuildings" version="1" />
+	<node changeset="18321877" id="2494257148" lat="40.6914953" lon="-73.9711087" timestamp="2013-10-12T20:25:59Z" uid="1772890" user="navimont_nycbuildings" version="1" />
+	<node changeset="19073615" id="2547122055" lat="40.7294441" lon="-73.9856211" timestamp="2013-11-23T15:39:02Z" uid="1764427" user="lxbarth_nycbuildings" version="1" />
+	<node changeset="19081348" id="2547637434" lat="40.6822802" lon="-73.9412925" timestamp="2013-11-23T21:04:30Z" uid="1772879" user="celosia_nycbuildings" version="1" />
+	<node changeset="19101901" id="2549953675" lat="40.7453629" lon="-73.9901281" timestamp="2013-11-25T00:12:49Z" uid="1772879" user="celosia_nycbuildings" version="1" />
+	<node changeset="19102351" id="2550023286" lat="40.6804816" lon="-73.989915" timestamp="2013-11-25T01:13:42Z" uid="1772879" user="celosia_nycbuildings" version="1" />
+	<node changeset="19102625" id="2550069332" lat="40.6846064" lon="-73.9857403" timestamp="2013-11-25T02:06:28Z" uid="1772879" user="celosia_nycbuildings" version="1" />
+	<node changeset="19153502" id="2555099215" lat="40.718423" lon="-73.9960542" timestamp="2013-11-28T03:09:07Z" uid="1764427" user="lxbarth_nycbuildings" version="1" />
+	<node changeset="19245821" id="2562442981" lat="40.722762" lon="-74.0032084" timestamp="2013-12-03T05:25:45Z" uid="1764427" user="lxbarth_nycbuildings" version="1" />
+	<node changeset="19276979" id="2565127911" lat="40.6850121" lon="-73.9387582" timestamp="2013-12-04T18:59:55Z" uid="1812841" user="ingalls_nycbuildings" version="1" />
+	<node changeset="19300887" id="2567534863" lat="40.7214711" lon="-73.9788026" timestamp="2013-12-06T07:01:26Z" uid="1764427" user="lxbarth_nycbuildings" version="1" />
+	<node changeset="19306422" id="2567921863" lat="40.6889654" lon="-73.943722" timestamp="2013-12-06T13:46:17Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="19307077" id="2567978639" lat="40.6960263" lon="-73.9377824" timestamp="2013-12-06T14:29:45Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="19308004" id="2568078327" lat="40.6842447" lon="-73.9587525" timestamp="2013-12-06T15:31:58Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="19308563" id="2568198788" lat="40.6951517" lon="-73.9593049" timestamp="2013-12-06T16:08:34Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="19309655" id="2568308614" lat="40.6918419" lon="-73.9804981" timestamp="2013-12-06T17:25:51Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="19314940" id="2569070607" lat="40.7356018" lon="-74.002414" timestamp="2013-12-06T23:49:47Z" uid="1764427" user="lxbarth_nycbuildings" version="1" />
+	<node changeset="29995045" id="2592307125" lat="40.7329775" lon="-73.9866667" timestamp="2015-04-05T16:03:25Z" uid="1866507" user="talexhv" version="3">
+		<tag k="name" v="3rd Avenue (L)" />
+		<tag k="note" v="eastbound trains to 1 Av and Brooklyn only" />
+		<tag k="railway" v="subway_entrance" />
+	</node>
+	<node changeset="20936988" id="2702937195" lat="40.7389356" lon="-73.9958979" timestamp="2014-03-05T19:34:15Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="20940982" id="2703449495" lat="40.7472025" lon="-73.993072" timestamp="2014-03-05T23:55:21Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="20999382" id="2708170048" lat="40.7656711" lon="-73.9841976" timestamp="2014-03-09T05:09:13Z" uid="1764427" user="lxbarth_nycbuildings" version="1" />
+	<node changeset="21015139" id="2709898023" lat="40.7609929" lon="-73.9922075" timestamp="2014-03-09T21:42:54Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="21026590" id="2710867566" lat="40.7489435" lon="-73.978353" timestamp="2014-03-10T14:31:16Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="21074789" id="2714921319" lat="40.7544316" lon="-73.9721555" timestamp="2014-03-12T23:21:16Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="21157351" id="2723661583" lat="40.7671227" lon="-73.9664371" timestamp="2014-03-17T15:55:13Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="21160730" id="2723919422" lat="40.7715944" lon="-73.9654058" timestamp="2014-03-17T18:55:15Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22015335" id="2823833526" lat="40.7473883" lon="-74.0050463" timestamp="2014-04-29T05:04:59Z" uid="1424765" user="Korzun" version="1" />
+	<node changeset="22044445" id="2826571795" lat="40.7138366" lon="-73.9885363" timestamp="2014-04-30T14:24:18Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="38088840" id="2827696182" lat="40.6877331" lon="-74.0165653" timestamp="2016-03-26T19:26:22Z" uid="632378" user="3yoda" version="2" />
+	<node changeset="22150658" id="2838051180" lat="40.702808" lon="-73.9640538" timestamp="2014-05-05T17:15:18Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22154801" id="2838547987" lat="40.7119804" lon="-73.9578192" timestamp="2014-05-05T20:41:05Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22156964" id="2838734733" lat="40.713611" lon="-73.9452723" timestamp="2014-05-05T23:21:37Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22168737" id="2839873828" lat="40.7286647" lon="-73.935653" timestamp="2014-05-06T15:23:59Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22193685" id="2842244616" lat="40.7183626" lon="-73.9465979" timestamp="2014-05-07T17:57:25Z" uid="1781294" user="Rub21_nycbuildings" version="1">
+		<tag k="addr:street" v="Manhattan Avenue" />
+		<tag k="addr:postcode" v="11211" />
+		<tag k="addr:housenumber" v="410" />
+	</node>
+	<node changeset="22196088" id="2842730359" lat="40.7245055" lon="-73.9469357" timestamp="2014-05-07T19:49:20Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22198303" id="2842988363" lat="40.7317189" lon="-73.9525533" timestamp="2014-05-07T21:19:46Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22240830" id="2847156596" lat="40.7588306" lon="-73.9411171" timestamp="2014-05-09T21:54:27Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="22293860" id="2853052622" lat="40.7484097" lon="-73.9409146" timestamp="2014-05-12T15:13:10Z" uid="1781294" user="Rub21_nycbuildings" version="1" />
+	<node changeset="23040625" id="2924543804" lat="40.756427" lon="-73.9973905" timestamp="2014-06-20T10:36:47Z" uid="336460" user="robgeb" version="1" />
+	<node changeset="24848315" id="3026465207" lat="40.6955501" lon="-73.9910058" timestamp="2014-08-19T03:14:50Z" uid="1851008" user="YamaOfParadise" version="1" /><node changeset="27459692" id="3235255430" lat="40.7254888" lon="-73.9850497" timestamp="2014-12-14T22:27:39Z" uid="336460" user="robgeb" version="1" />
+	<node changeset="29529664" id="3402819851" lat="40.712428" lon="-74.0398213" timestamp="2015-03-16T22:58:42Z" uid="624003" user="eugenebata" version="1" />
+	<node changeset="34348832" id="3765464635" lat="40.7163118" lon="-74.002209" timestamp="2015-09-30T15:02:54Z" uid="336460" user="robgeb" version="1" />
+	<node changeset="36948139" id="3983171009" lat="40.7472889" lon="-73.9848848" timestamp="2016-02-01T23:04:36Z" uid="336460" user="robgeb" version="1" />
+	<node changeset="38750647" id="4138081940" lat="40.7390484" lon="-73.9841326" timestamp="2016-04-21T08:33:14Z" uid="336460" user="robgeb" version="1" />
+	<node changeset="41198067" id="4332676955" lat="40.767526" lon="-73.9763081" timestamp="2016-08-02T17:48:45Z" uid="40023" user="ALE!" version="1" />
+	<node changeset="43152571" id="4463068542" lat="40.7451435" lon="-74.0282102" timestamp="2016-10-25T09:33:21Z" uid="2845963" user="minewman" version="1" />
+	<node changeset="43263416" id="4469859105" lat="40.7389121" lon="-74.0378587" timestamp="2016-10-29T11:02:18Z" uid="2845963" user="minewman" version="1" />
+	<node changeset="43345664" id="4476374212" lat="40.7659749" lon="-74.0293464" timestamp="2016-11-02T08:48:52Z" uid="2845963" user="minewman" version="1" />
+	<node changeset="46652579" id="4722107406" lat="40.725399" lon="-74.0042504" timestamp="2017-03-07T13:47:37Z" uid="5438632" user="petergaebele" version="1">
+		<tag k="amenity" v="waste_basket" />
+	</node>
+	<way changeset="38432823" id="239753695" timestamp="2016-04-09T17:02:23Z" uid="3779045" user="itanedo" version="2">
+		<nd ref="2475239524" />
+		<nd ref="2475239527" />
+		<nd ref="2475239528" />
+		<nd ref="4109867474" />
+		<nd ref="2475239529" />
+		<nd ref="2475239531" />
+		<nd ref="2475239530" />
+		<tag k="barrier" v="fence" />
+	</way>
+	<way changeset="24409112" id="248142380" timestamp="2014-07-28T22:04:12Z" uid="1917473" user="aaron_nycbuildings" version="2">
+		<nd ref="2549926695" />
+		<nd ref="2549926703" />
+		<nd ref="2549926730" />
+		<nd ref="2549926723" />
+		<nd ref="2549926696" />
+		<nd ref="2549926695" />
+		<tag k="height" v="16.4" />
+		<tag k="building" v="yes" />
+		<tag k="addr:street" v="East 6th Street" />
+		<tag k="nycdoitt:bin" v="1005104" />
+		<tag k="addr:postcode" v="10009" />
+		<tag k="addr:housenumber" v="533" />
+	</way>
+	<way changeset="19246011" id="249666362" timestamp="2013-12-03T06:12:38Z" uid="1764427" user="lxbarth_nycbuildings" version="1">
+		<nd ref="2562465202" />
+		<nd ref="2562465206" />
+		<nd ref="2562465222" />
+		<nd ref="2562465218" />
+		<nd ref="2562465202" />
+		<tag k="height" v="17.1" />
+		<tag k="building" v="yes" />
+		<tag k="addr:street" v="West Street" />
+		<tag k="nycdoitt:bin" v="1083161" />
+		<tag k="addr:postcode" v="10014" />
+		<tag k="addr:housenumber" v="376" />
+	</way>
+	<way changeset="19308238" id="250337849" timestamp="2013-12-06T15:48:51Z" uid="1781294" user="Rub21_nycbuildings" version="1">
+		<nd ref="2568134930" />
+		<nd ref="2568134894" />
+		<nd ref="2568134890" />
+		<nd ref="2568134917" />
+		<nd ref="2568135054" />
+		<nd ref="2568135060" />
+		<nd ref="2568134934" />
+		<nd ref="2568134930" />
+		<tag k="height" v="8.9" />
+		<tag k="building" v="yes" />
+		<tag k="addr:street" v="Lafayette Avenue" />
+		<tag k="nycdoitt:bin" v="3055574" />
+		<tag k="addr:postcode" v="11238" />
+		<tag k="addr:housenumber" v="332" />
+	</way>
+	<way changeset="28552967" id="264656699" timestamp="2015-02-01T20:02:20Z" uid="336460" user="robgeb" version="3">
+		<nd ref="2703160064" />
+		<nd ref="2703160085" />
+		<nd ref="2703160132" />
+		<nd ref="2703160157" />
+		<nd ref="2703160168" />
+		<nd ref="2703160160" />
+		<nd ref="2703160165" />
+		<nd ref="3323631281" />
+		<nd ref="3323631283" />
+		<nd ref="2703160309" />
+		<nd ref="3323631285" />
+		<nd ref="3323631279" />
+		<nd ref="3323631277" />
+		<nd ref="3323631272" />
+		<nd ref="2703160124" />
+		<nd ref="3323631038" />
+		<nd ref="3323631024" />
+		<nd ref="3323631020" />
+		<nd ref="3323631018" />
+		<nd ref="2703160064" />
+		<tag k="building" v="yes" />
+		<tag k="nycdoitt:bin" v="1012386" />
+	</way>
+	<way changeset="21161455" id="266900775" timestamp="2014-03-17T19:29:55Z" uid="1781294" user="Rub21_nycbuildings" version="1">
+		<nd ref="2723972606" />
+		<nd ref="2723972638" />
+		<nd ref="2723972600" />
+		<nd ref="2723972591" />
+		<nd ref="2723972575" />
+		<nd ref="2723972533" />
+		<nd ref="2723972563" />
+		<nd ref="2723972646" />
+		<nd ref="2723972640" />
+		<nd ref="2723972653" />
+		<nd ref="2723972663" />
+		<nd ref="2723972729" />
+		<nd ref="2723972714" />
+		<nd ref="2723972606" />
+		<tag k="height" v="14.5" />
+		<tag k="building" v="yes" />
+		<tag k="addr:street" v="East 78th Street" />
+		<tag k="nycdoitt:bin" v="1046000" />
+		<tag k="addr:postcode" v="10075" />
+		<tag k="addr:housenumber" v="416" />
+	</way>
+	<way changeset="33362391" id="279772201" timestamp="2015-08-16T03:51:04Z" uid="643374" user="Jason Wray" version="2">
+		<nd ref="2839658235" />
+		<nd ref="2839658227" />
+		<nd ref="2839658077" />
+		<nd ref="2839658098" />
+		<nd ref="2839658262" />
+		<nd ref="2839658259" />
+		<nd ref="2839658235" />
+		<tag k="ele" v="7" />
+		<tag k="name" v="Iglesia Bautista Calvario" />
+		<tag k="height" v="11.7" />
+		<tag k="amenity" v="place_of_worship" />
+		<tag k="building" v="yes" />
+		<tag k="religion" v="christian" />
+		<tag k="addr:street" v="North 5th Street" />
+		<tag k="gnis:created" v="12/21/2005" />
+		<tag k="nycdoitt:bin" v="3335711" />
+		<tag k="addr:postcode" v="11211" />
+		<tag k="gnis:state_id" v="36" />
+		<tag k="gnis:county_id" v="047" />
+		<tag k="gnis:feature_id" v="2081640" />
+		<tag k="addr:housenumber" v="199" />
+	</way>
+	<way changeset="22240830" id="280642309" timestamp="2014-05-09T21:56:08Z" uid="1781294" user="Rub21_nycbuildings" version="1">
+		<nd ref="2847156079" />
+		<nd ref="2847156088" />
+		<nd ref="2847156102" />
+		<nd ref="2847156124" />
+		<nd ref="2847156119" />
+		<nd ref="2847156137" />
+		<nd ref="2847156112" />
+		<nd ref="2847156096" />
+		<nd ref="2847156095" />
+		<nd ref="2847156079" />
+		<tag k="height" v="4.4" />
+		<tag k="building" v="yes" />
+		<tag k="addr:street" v="9th Street" />
+		<tag k="nycdoitt:bin" v="4436836" />
+		<tag k="addr:postcode" v="11101" />
+		<tag k="addr:housenumber" v="38-59 REAR" />
+	</way>
+	<way changeset="28271602" id="323213023" timestamp="2015-01-20T09:12:00Z" uid="336460" user="robgeb" version="1">
+		<nd ref="3300032298" />
+		<nd ref="3300032299" />
+		<nd ref="3300032294" />
+		<nd ref="3300032295" />
+		<nd ref="3300032301" />
+		<nd ref="2562466378" />
+		<nd ref="3300032298" />
+		<tag k="height" v="20" />
+		<tag k="roof:shape" v="flat" />
+		<tag k="roof:colour" v="#D5D4BF" />
+		<tag k="building:part" v="yes" />
+		<tag k="roof:material" v="concrete" />
+		<tag k="building:colour" v="#C3C0AF" />
+		<tag k="building:levels" v="6" />
+		<tag k="building:material" v="glass" />
+	</way>
+	<way changeset="43156119" id="449353903" timestamp="2016-10-25T11:56:16Z" uid="2845963" user="minewman" version="2">
+		<nd ref="4463229318" />
+		<nd ref="4463229319" />
+		<nd ref="4463283040" />
+		<nd ref="4463229320" />
+		<nd ref="4463229323" />
+		<nd ref="4463229321" />
+		<nd ref="4463229318" />
+		<tag k="building" v="yes" />
+	</way>
+	</osm>
